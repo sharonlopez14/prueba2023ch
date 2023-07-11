@@ -1,0 +1,98 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Gallery1": 5,
+    "galleryTemplate1": 6,
+    "Host": 3,
+    "Image1": 8,
+    "Image2": 14,
+    "NextArrow1": 9,
+    "Rectangle1": 7,
+    "Screen1": 4,
+    "Screen2": 13,
+    "Separator1": 12,
+    "Subtitle1": 11,
+    "Title1": 10
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 15:04:35",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {
+    "Annotation 2023-07-04 223642": "2ecc6494-0a60-41a1-aa81-6f74604aa059.png"
+  },
+  "LocalResourceRootPaths": {
+    "Annotation 2023-07-04 223642": "https://docserverpwaprodeus.blob.core.windows.net/7ebd80a5-68cb-4732-afa8-b847681cfc61-1/resource/Assets0Images02ecc6494-0a60-41a1-aa81-6f74604aa059.png?sv=2018-03-28&sr=b&sig=AMb2DeheulATf0T0VqSRnXFKb6dTnJKQlkPRog6zS%2BM%3D&spr=https&se=2023-07-12T15%3A03%3A32Z&sp=r"
+  },
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "gallery": 0,
+    "icon": 3,
+    "image": 2,
+    "label": 4,
+    "rectangle": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Gallery1": {},
+    "galleryTemplate1": {},
+    "Host": {},
+    "Image1": {},
+    "Image2": {},
+    "NextArrow1": {},
+    "Rectangle1": {},
+    "Screen1": {},
+    "Screen2": {},
+    "Separator1": {},
+    "Subtitle1": {},
+    "Title1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Gallery1": 0,
+    "galleryTemplate1": 1,
+    "Host": 0,
+    "Image1": 3,
+    "Image2": 8,
+    "NextArrow1": 4,
+    "Rectangle1": 2,
+    "Screen1": 0,
+    "Screen2": 0,
+    "Separator1": 7,
+    "Subtitle1": 6,
+    "Title1": 5
+  },
+  "ResourcesJsonIndices": {
+    "Image-Annotation 2023-07-04 223642": 1,
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1032121,
+    "ControlCount": {
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 2,
+      "label": 2,
+      "rectangle": 2,
+      "screen": 2
+    },
+    "DeserializationLoadTime": 1.4121998
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

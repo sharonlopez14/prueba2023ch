@@ -1,0 +1,9 @@
+Screen2 As screen:
+
+    Image2 As image:
+        Height: =755
+        Image: ='Annotation 2023-07-04 223642'
+        Width: =640
+        Y: =165
+        ZIndex: =1
+
